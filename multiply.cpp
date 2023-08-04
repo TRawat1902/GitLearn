@@ -6,6 +6,6 @@ int main()
     int a=5;
     int b=7;
 
-    cout<<a*b<<endl;
+    cout<<"The multoply is "<<a*b<<endl;
     return 0;
 }
